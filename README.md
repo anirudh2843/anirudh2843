@@ -53,12 +53,12 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 
 <div align="center">
 
-<a href="https://github.com/Csiddharth7906/DevMatch-UI" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-UI&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+<a href="https://github.com/anirudh2843/CodeMate-web.git" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate-web&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
 
-<a href="https://github.com/Csiddharth7906/DevMatch-Backend" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-Backend&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+<a href="https://github.com/anirudh2843/CodeMate.git" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
 
 </div>
