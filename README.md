@@ -54,11 +54,13 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 <a href="https://github.com/anirudh2843/CodeMate-web" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate-web&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
+
 <a href="https://github.com/anirudh2843/CodeMate" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
 </a>
 
 </div>
+
 
 ---
 
