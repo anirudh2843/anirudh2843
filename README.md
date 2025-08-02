@@ -54,14 +54,11 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 [CodeMate](https://github.com/anirudh2843/CodeMate-web)
-[![CodeMate-web](https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate-web&theme=tokyonight&border_color=7F3FBF&border_radius=10)](https://codemate-web.onrender.com)
-
----
-
-### 🏥 [MedTrans](https://github.com/anirudh2843/medtrans)
-[![MedTrans](https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=medtrans&theme=tokyonight&border_color=7F3FBF&border_radius=10)](https://github.com/anirudh2843/medtrans)
-
+| Project | Description | Tech Stack | Live Demo / Repo |
+|---------|-------------|------------|------------------|
+| 🚀 **CodeMate** | A smart networking platform for developers with real-time chat and collaboration features. | React, Node.js, MongoDB, Socket.io | [🔗 Live Demo](https://codemate-web.onrender.com) • [📂 Repo](https://github.com/anirudh2843/CodeMate-web) |
+| 🏥 **MedTrans** | A tool that scans medical reports and translates them from English to Telugu for better accessibility. | HTML, CSS, JS, PHP | [📂 Repo](https://github.com/anirudh2843/medtrans) |
+| 🏘️ **PG Life** | A full-stack accommodation website for students to find PGs and rentals easily. | HTML, CSS, JS, PHP, MySQL | [🔗 Live Demo](http://www.pglife.lovestoblog.com/?i=1) |
 
 ## 📈 GitHub Stats
 
