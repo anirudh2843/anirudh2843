@@ -54,19 +54,14 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-<a href="[https://codemate.onrender.com](https://codemate-web.onrender.com/)" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate-web&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
-
-<a href="https://github.com/anirudh2843/medtrans" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=medtrans&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
-
-</div>
+### 🚀 [CodeMate](https://codemate-web.onrender.com)
+[![CodeMate](https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate-web&theme=tokyonight&border_color=7F3FBF&border_radius=10)](https://codemate-web.onrender.com)
 
 ---
+
+### 🏥 [MedTrans](https://github.com/anirudh2843/medtrans)
+[![MedTrans](https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=medtrans&theme=tokyonight&border_color=7F3FBF&border_radius=10)](https://github.com/anirudh2843/medtrans)
+
 
 ## 📈 GitHub Stats
 
