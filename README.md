@@ -22,9 +22,10 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 
 | Project                                                     | Description                                                                                                        | Tech                      |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [CodeMate](https://github.com/anirudh2843/CodeMate-web.git) | Smart networking for developers                                                                                    | React, Node.js, MongoDB   |
 | [PG Life](http://www.pglife.lovestoblog.com/?i=1)           | A Full-Stack PG accommodation website                                                                              | HTML, CSS, JS, PHP, MySQL |
 | [MedTrans](https://github.com/anirudh2843/medtrans)         | A website which scans the uploaded printed medical report and translates the medical report from English to Telugu | HTML, CSS, JS, PHP        |
-| [CodeMate](https://github.com/anirudh2843/CodeMate-web.git) | Smart networking for developers                                                                                    | React, Node.js, MongoDB   |
+
 
 ---
 
