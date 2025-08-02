@@ -31,8 +31,8 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 
 ### 📈 GitHub Stats
 
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudh2843&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh2843&layout=compact&theme=tokyonight)
 
 ---
 
