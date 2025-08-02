@@ -18,18 +18,10 @@
 - 👨‍💻 Final-year Engineering Student at **CMR College of Engineering & Technology**
 - 💼 Passionate about **Full Stack Development**, **DSA**, and **AI/ML**
 - 🛠️ Building smart products using **React**, **Node.js**, **MongoDB**, **Socket.io**
-- 🌱 Currently exploring **System Design**, **AI Tools**, and **Cloud Deployment**
-- 🎯 2025 Goal: Land a top-notch developer role and contribute to open source
+- 🌱 Currently exploring **System Design**, **AI Tools**
 
 ---
 
-## 💼 Experience
-
-- **Full Stack Developer Intern @ Nullclass & Zeru Finance**
-  - Blockchain, risk analysis, smart contracts, on-chain Ethereum data
-  - MERN stack development with real-time chat and AI integrations
-
----
 
 ## 🛠️ Tech Stack
 
@@ -58,8 +50,8 @@
 
 | Project | Description | Tech Stack | Live Demo / Repo |
 |---------|-------------|------------|------------------|
-| 🚀 **CodeMate** | A smart networking platform for developers with real-time chat and collaboration features. | React, Node.js, MongoDB, Socket.io | [🔗 Live Demo](https://codemate-web.onrender.com) • [📂 Repo](https://github.com/anirudh2843/CodeMate-web) |
-| 🏥 **MedTrans** | A tool that scans medical reports and translates them from English to Telugu for better accessibility. | HTML, CSS, JS, PHP | [📂 Repo](https://github.com/anirudh2843/medtrans) |
+| 🚀 **CodeMate** | A smart networking platform for developers with real-time chat and collaboration features. | React, Node.js, MongoDB, Socket.io | [🔗 Live Demo](https://codemate-web.onrender.com) • [Repo](https://github.com/anirudh2843/CodeMate-web) |
+| 🏥 **MedTrans** | A tool that scans medical reports and translates them from English to Telugu for better accessibility. | HTML, CSS, JS, PHP | [Repo](https://github.com/anirudh2843/medtrans) |
 | 🏘️ **PG Life** | A full-stack accommodation website for students to find PGs and rentals easily. | HTML, CSS, JS, PHP, MySQL | [🔗 Live Demo](http://www.pglife.lovestoblog.com/?i=1) |
 
 ## 📈 GitHub Stats
