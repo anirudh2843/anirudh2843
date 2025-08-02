@@ -17,7 +17,6 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 
 ## 🚀 About Me
 
-- 💼 **Currently interning** at **ModelSuit.ai** as **Full Stack Developer Intern** (Remote)
 - 🔭 Building **Full Stack Applications** with **MERN Stack** in production environment
 - 🌱 Learning advanced **React patterns**, **Node.js**, and **System Design**
 - 💡 Passionate about **Data Structures & Algorithms**
@@ -47,6 +46,20 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+## 🏗️ **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/Csiddharth7906/DevMatch-UI" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-UI&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
+
+<a href="https://github.com/Csiddharth7906/DevMatch-Backend" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-Backend&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
+</a>
 
 </div>
 
@@ -82,40 +95,10 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 
 
 
-## 💼 **Professional Experience**
-
-<div align="center">
-
-### 🚀 **Full Stack Developer Intern** | ModelSuit.ai
-**📅 July 2025 - September 2025** | **🌐 Remote**
-
-<img src="https://img.shields.io/badge/Status-Currently%20Interning-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
-<img src="https://img.shields.io/badge/Duration-2%20Months-blue?style=for-the-badge&logo=calendar&logoColor=white" />
-<img src="https://img.shields.io/badge/Mode-Remote-purple?style=for-the-badge&logo=home&logoColor=white" />
-
-🎯 **Gaining hands-on experience in:**
-- Building scalable web applications in production environment
-- Working with industry-standard development practices
-- Collaborating with professional development teams
-- Implementing AI-powered solutions and modern web technologies
-
-</div>
 
 ---
 
-## 🏗️ **Featured Projects**
 
-<div align="center">
-
-<a href="https://github.com/Csiddharth7906/DevMatch-UI" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-UI&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
-
-<a href="https://github.com/Csiddharth7906/DevMatch-Backend" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Csiddharth7906&repo=DevMatch-Backend&theme=tokyonight&border_color=7F3FBF&border_radius=10" />
-</a>
-
-</div>
 
 ### 🎯 **DevMatch - Full Stack Developer Matchmaking Platform**
 - 🔥 **Frontend**: React + Redux + Tailwind CSS + Real-time Chat
