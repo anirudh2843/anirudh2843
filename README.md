@@ -10,9 +10,22 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 <br clear="both">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
 
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCsiddharth7906&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCsiddharth7906)
+
+
+## 🚀 About Me
+
+- 💼 **Currently interning** at **ModelSuit.ai** as **Full Stack Developer Intern** (Remote)
+- 🔭 Building **Full Stack Applications** with **MERN Stack** in production environment
+- 🌱 Learning advanced **React patterns**, **Node.js**, and **System Design**
+- 💡 Passionate about **Data Structures & Algorithms**
+- 🎯 2025 Goal: **Excel in my internship & Master Full Stack Development**
+- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tools & Technologies*
 
 <div align="center">
 
@@ -34,13 +47,6 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -73,28 +79,6 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </div>
 
-  
-
-
-
-<img width="40" height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/>
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCsiddharth7906&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCsiddharth7906)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-## 🚀 About Me
-
-- 💼 **Currently interning** at **ModelSuit.ai** as **Full Stack Developer Intern** (Remote)
-- 🔭 Building **Full Stack Applications** with **MERN Stack** in production environment
-- 🌱 Learning advanced **React patterns**, **Node.js**, and **System Design**
-- 💡 Passionate about **Data Structures & Algorithms**
-- 🎯 2025 Goal: **Excel in my internship & Master Full Stack Development**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
 
 
 
