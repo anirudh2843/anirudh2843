@@ -8,6 +8,7 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 ---
 
 <br clear="both">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
 
 ---
 
@@ -43,20 +44,6 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 
 </div>
 
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
 ### 🚀 Projects
 
 | Project                                                     | Description                                                                                                        | Tech                      |
@@ -86,10 +73,9 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </div>
 
-<div align="center">
   
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
+
 
 <img width="40" height="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/>
 
