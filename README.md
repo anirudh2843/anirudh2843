@@ -1,3 +1,4 @@
+<div align="center">
 # Domakonda Anirudh
 
 **`Full-Stack Developer | AI-ML Enthusiast | Problem Solver`**
@@ -45,11 +46,10 @@ Hey there! I'm Anirudh, a passionate full-stack developer and AI-ML explorer who
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+</div>
 
 <div align="center">
   
-# 👋 Hello World! I'm **Siddharth Chauhan**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Intern;MERN+Stack+Enthusiast;DSA+Problem+Solver;Code+Explorer+%26+Creator" alt="Typing SVG" />
 
