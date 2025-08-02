@@ -54,7 +54,7 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 [CodeMate](https://codemate-web.onrender.com)
+### 🚀 [CodeMate](https://github.com/anirudh2843/CodeMate-web)
 [![CodeMate](https://github-readme-stats.vercel.app/api/pin/?username=anirudh2843&repo=CodeMate-web&theme=tokyonight&border_color=7F3FBF&border_radius=10)](https://codemate-web.onrender.com)
 
 ---
