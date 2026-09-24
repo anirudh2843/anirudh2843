@@ -15,8 +15,8 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Final-year Engineering Student at **CMR College of Engineering & Technology**
-- 💼 Passionate about **Full Stack Development**, **DSA**, and **AI/ML**
+- 👨‍💻 Engineering graduate from **CMR College of Engineering & Technology**
+- 💼 Passionate about **QA**, **Full Stack Development**, **DSA**, and **AI/ML**
 - 🛠️ Building smart products using **React**, **Node.js**, **MongoDB**, **Socket.io**
 - 🌱 Currently exploring **System Design**, **AI Tools**
 
